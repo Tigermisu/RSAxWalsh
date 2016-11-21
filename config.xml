@@ -8,14 +8,14 @@
     <name>RSA x Walsh</name>
 
     <description>
-        Application demonstrating simple behavior of RSA and Walsh CDMA techniques.
+        Application demostrating simple behavior of RSA and Walsh CDMA techniques.
     </description>
 
     <author href="http://jaquez.mx" email="chris@jaquez.mx">
         Christopher Jáquez
     </author>
     
-    <icon src="icon.png" />
-    <splash src="splash.png" />
+    <icon src="icon.fw.png" />
+    <splash src="splash.fw.png" />
 
 </widget>
